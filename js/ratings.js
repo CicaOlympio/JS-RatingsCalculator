@@ -3,4 +3,4 @@ function collect_ratings(){
   let rating=0;
 }
 
-const elements=querySelectorAll("rating")
+const elements=querySelectorAll(".rating")
